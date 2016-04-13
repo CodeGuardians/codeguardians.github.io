@@ -1,0 +1,40 @@
+
+
+body {
+    font-family: 'Source Code Pro', monospace;
+    background: #232525;
+    color: #b9b9a7;
+}
+
+
+h1 {
+    font-weight: normal;
+    color: #FFC66D;
+}
+
+.center {
+    width:400px;
+    height:200px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-100px 0 0 -200px;
+    text-align: center;
+}
+
+
+a:link {
+    color: rgb(150, 101, 75);
+}
+
+a:visited {
+    color: rgb(150, 101, 75);
+}
+
+a:hover {
+    color: rgb(71, 39, 35);
+}
+
+a:link {
+    color: rgb(71, 39, 35);
+}
